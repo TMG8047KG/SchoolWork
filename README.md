@@ -1,3 +1,3 @@
 # HelloLesson
 I donno? I have to make a REPO for some reson.
-Commited from terminal! 100th try :)
+Commited from terminal! Someday!
